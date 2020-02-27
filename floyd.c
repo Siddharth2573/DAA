@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 
-int count=0;//basic operation
+int count=0;
 double clk;
 clock_t starttime,endtime;
 
