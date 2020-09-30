@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<time.h>
+#include<time.h> //for calculating time
 #include<stdlib.h>
 
 #define TRUE 1
