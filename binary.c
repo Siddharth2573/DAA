@@ -1,11 +1,12 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-
+//C program for implementation of binary sort
 int bottom,top,mid,n;
 void bubble_sort(int a[]);
 int binary_search(int a[], int *key);
-	
+	//a binary search based function to find the position 
+//where item should be inserted in a[low...high]
 void main()
 {
    	int i,a[50],key;
