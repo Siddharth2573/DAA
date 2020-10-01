@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-
+//linear search or sequential search is method for finding an element within a list.
 int main()
 {
   	int i,a[10],key;
