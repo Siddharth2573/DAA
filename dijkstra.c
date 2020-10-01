@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<time.h>
+#include<time.h> //for calculating time
 #define MAX 10
 
 int choose(int dist[],int s[],int n)
